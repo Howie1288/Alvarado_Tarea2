@@ -39,7 +39,7 @@ titulo.classList.add('text-danger');
 const tablaGenerada = document.createElement('table');
 const parrafoNuevo = document.createElement('p');
 
-parrafoNuevo.textContent = "ejemplo de cómo se crea un párrafo desde JS";
+parrafoNuevo.textContent = "EJEMPLO DE NUEVO PARRAFO EN JS";
 parrafoNuevo.classList.add('text-info', 'fw-bold');
 
 cajaParrafos.appendChild(tablaGenerada);
